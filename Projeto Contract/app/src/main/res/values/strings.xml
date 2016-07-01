@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Contract Printer</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_activity_teste">teste</string>
+</resources>
